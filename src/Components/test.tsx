@@ -1,7 +1,7 @@
 const Test = () => {
     return (
     <>
-        <p className="text-4 bg-purple-800">WOWO</p>
+        <p className="bg-slate-400">WOWO</p>
     </>
     );
 }
